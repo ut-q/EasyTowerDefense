@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+/EasyTowerDefense/[Ll]ibrary/
+/EasyTowerDefense/[Tt]emp/
+/EasyTowerDefense/[Oo]bj/
+/EasyTowerDefense/[Bb]uild/
+/EasyTowerDefense/[Bb]uilds/
+/EasyTowerDefense/[Ll]ogs/
+/EasyTowerDefense/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
@@ -57,4 +65,5 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
 
